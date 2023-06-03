@@ -1,2 +1,0 @@
-# Laravel
-My Laravel creature
